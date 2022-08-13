@@ -16,3 +16,23 @@ print('name:',emp_2.name)
 print('age:',emp_2.age)
 print('dob:',emp_2.dob)
 print('city:',emp_2.city)
+
+
+OUTPUT:
+      
+ name:gayu
+ 
+age:21
+      
+dob: 2001
+      
+ city:theni
+      ******************
+      
+ name:kalai
+      
+ age:19
+      
+ dob:2003
+      
+ city:chennai     
